@@ -13,6 +13,10 @@ public class Test : MonoBehaviour
         txt.text = "hello Mr.J";
     }
 
+    public void Add()
+    {
+        
+    }
     // Update is called once per frame
 	void Update () {
 	
