@@ -10,7 +10,7 @@ public class Test : MonoBehaviour
 	void Start ()
 	{
 	    txt = transform.Find("Text").GetComponent<Text>();
-	    txt.text = "hello Mr.Jiang";
+	    txt.text = "hello Mr.Li";
 	}
 	
 	// Update is called once per frame
